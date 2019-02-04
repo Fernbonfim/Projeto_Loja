@@ -10,3 +10,7 @@ function listaCategorias($conexao){
   return $categorias;
 
 }
+
+<div class="alert alert-primary" role="alert">
+  Um simples alerta primary. Olha só!
+</div>
